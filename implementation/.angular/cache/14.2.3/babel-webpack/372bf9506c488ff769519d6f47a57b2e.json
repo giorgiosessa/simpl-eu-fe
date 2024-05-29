@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class ShaclFile {\n  constructor(options = {}) {\n    this.shapes = options.shapes || [];\n    this.prefixes = options.prefixes || [];\n  }\n\n}\nexport class Prefix {\n  constructor(alias, url) {\n    this.alias = alias;\n    this.url = url;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

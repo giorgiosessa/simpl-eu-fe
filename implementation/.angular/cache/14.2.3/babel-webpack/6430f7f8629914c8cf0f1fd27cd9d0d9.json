@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiUrl: window['env'] && window['env']['apiUrl'] ? window['env']['apiUrl'] : 'https://api.myapp.com'\n};","map":null,"metadata":{},"sourceType":"module"}
